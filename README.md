@@ -22,7 +22,7 @@ cd GUI-Calculator
 javac CalculatorGUI.java
 java CalculatorGUI
 📸 Screenshots
-![Screenshot 2025-03-08 195534](https://github.com/user-attachments/assets/bc2b3094-059c-477c-a056-b992a9c315bd)
+![Screenshot 2025-03-08 195505](https://github.com/user-attachments/assets/07c5a2df-2707-441c-9308-42654aef69df)
 ![image](https://github.com/user-attachments/assets/53691364-dcab-42fa-a82e-fdc4e6473fc6)
 
 🤝 Contributing
